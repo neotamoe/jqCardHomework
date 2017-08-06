@@ -6,8 +6,8 @@ Description of Intent
 ---------------------
 
 Reworked and rewrote assignment as demonstrated in DevJanaPrime's github: psi_cardsLecture2.  This was done as reinforcement
-of the day's lecture to help solidify knowledge and learning.  See Dev's original file in my repo for comparison.  Work 
-was done with as much independence as possible to recreate needed code.
+of the day's lecture to help solidify knowledge and learning.  See Dev's forked repository (jQuery (psi_cardsLecture2) for 
+comparison.  Work was done with as much independence as possible to recreate needed code.
 
 
 Activity Description
